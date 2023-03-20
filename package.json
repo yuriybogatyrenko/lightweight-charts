@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "version": "4.1.0",
   "name": "@yuriybogatyrenko/lightweight-charts",
   "author": "TradingView, Inc.",
